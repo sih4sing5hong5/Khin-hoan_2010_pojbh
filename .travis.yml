@@ -1,0 +1,16 @@
+sudo: false
+dist: trusty
+language: python
+branches:
+  only:
+  - master
+script:
+- echo POJBH!!
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token:
+    secure: OE1bZ6Zna975nq5PlNrPiCoHTPrfNWN+ushclBhSUb5VBDC99RoI85ur3T6uc+Pjooksn3X/PA7lTovrrep+kimyU6IaFNXwpeBKJ6f+I8BbB0czOnG4ZZxAgYdTQnKsFEFBjzpTRPOE9TD09lHJAJu1VmDK7uVib1EniR7HMVm8qBIxHZme3HpMzNTDwCK6Xl+7Ny22mrnliPPv55a8ZjvAWsMQ4RrF8+ISPTCKpLXUwOOavTq7sm2D45LNyhy3lSWcUDFqFn3HwsjeNm1cQD6ArAXeNzxeHs6vAT/1ibypo6XLC4GHmq4dntBv6ekxuPmXSsbIGHmt2cWEpnAOShACeteKy8X43RB22NvgAUwX+odN2pKQUHh7GYU5weqg9Fc9R/SnJ8G90wSBI4EualwCt+5zlcvmdWWRcBhalsvWEXyKEG4cHSjGnxsq2S07ESYUVSnEclBgWAO6SZNg358P4sU0hsP6qJuQUms2btYEwuOLTK1bTppH2dYCIx+QPrVSqPVgaMbcYXkPj1jcy7M1YYExa1wGZBLJyI7obMWmHVoufU/F0a1Tm0xAYHAxJcVopJ/ekLUyjN+ESmyGByy0kjO42G6ln8LotQPGCV7lQhMjZrfa4bAEHmJfIEh57HeZJQJ/OnknTsZPLUpOORN+5SrjY4BKUulx71HFhOs=
+  local_dir: pojbh.lib.ntnu.edu.tw
+  on:
+    branch: master
