@@ -1,0 +1,751 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>台灣白話字文獻館-白話字數位典藏</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Keywords" content="台灣,白話字,台語,閩南語.拼音,教會白話字">
+<meta name="description" content="白話字數位典藏全文檢索,耶和華啊，救你的百姓,肉體內有刺(B),肉體內有刺(A),用心吟詩呵咾主,用心吟詩呵咾主,數念倒去的人,傳教師娘修養會的期待,基督教的貧富觀,兄弟愛的交陪,說教：入上帝國,信，會看著上帝的榮光,抾著的性命,雜錄個人消息,青年T.K.C.會員kap傳道,價值推行的一項事工,見證台灣ê信仰,台中佮南投縣ê Tayal (泰雅爾) 族,看伊ê做人(故楊Tì-siong長老),故張Kim-iû長老,查經  雅各的生涯佮信仰">
+<meta name="author" content="國立台灣師範大學台灣文化及語言文學研究所">
+<link href="../css/blog.css" rel="stylesheet" type="text/css">
+<link href="../css/style_m.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../js/cj/cj.js"></script>
+<script type="text/javascript" src="../js/artical.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#BFBFBF" leftmargin="0" topmargin="0" onLoad="MM_preloadImages('../images/nav_news_ov.gif','../images/nav_plant_ov.gif','../images/nav_about_ov.gif','../images/nav_collection_ov.gif','../images/nav_forum_ov.gif','../images/nav_sitemap_ov.gif')">
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF"><table width="860" height="125" border="0" cellpadding="0" cellspacing="0" bgcolor="#D1E2D0">
+        <tr>
+          <td><a href="index.htm"><img src="../images/logo.gif" alt="首頁" width="335" height="70" border="0"></a></td>
+          <td align="right" valign="bottom"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="right" valign="baseline">
+                  <table border="0" cellspacing="0" cellpadding="0">
+	              <tr>
+	                <td align="right" class="gy12b f14">Languages</td>
+	                <td><img src="../images/spacer.gif" width="5" height="5" border="0"></td>
+	                <td align="right" class="gn12 f14"><a href="artical-d0t0a0p3.htm&amp;order=ad#">台文</a>｜<a href="artical-d0t0a0p3.htm&amp;order=ad#">中文</a>｜<a href="artical-d0t0a0p3.htm&amp;order=ad#">日本語</a>｜<a href="artical-d0t0a0p3.htm&amp;order=ad#">English</a></td>
+	                <td><img src="../images/spacer.gif" width="20" border="0"></td>
+	              	<td align="right" class="gy12b f14">字體</td>
+	                <td><img src="../images/spacer.gif" width="5" border="0"></td>
+	                <td>
+	                  	                    	  	  	            	  	  	              <span class="gn12 f14"><a href="resp.php?act=setSize&amp;size=s">小</a></span>
+	  	  	            	  	  	          	                    ｜	  	  	            	  	  	              <span class="gy12b f14">中</span>
+	  	  	            	  	  	          	                    ｜	  	  	            	  	  	              <span class="gn12 f14"><a href="resp.php?act=setSize&amp;size=l">大</a></span>
+	  	  	            	  	  	          	                </td>
+	                <td><img src="../images/spacer.gif" width="20" border="0"></td>
+	              </tr>
+	            </table>
+	            <div style="font-size:0px; height:20px"></div>
+                </td>
+              </tr>
+              <!--
+              <tr>
+                <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+              </tr>
+              <tr>
+                <td align="right">
+                                  </td>
+              </tr>
+              -->
+            </table></td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#9DAB9E"><img src="../images/spacer.gif" width="1" height="1" border="0"></td>
+          <td bgcolor="#9DAB9E"><img src="../images/spacer.gif" width="1" height="1" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height="80" align="center" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><a href="resp.php?act=setSize&amp;size=m" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('news','','../images/nav_news_ov.gif',1)"><img src="../images/nav_news.gif" name="news" border="0"></a></td>
+          <td width="50"><img src="../images/spacer.gif" width="50" height="5" border="0"></td>
+
+          <td id="cjNavMenu2"><a href="project.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('detail','','../images/nav_plant_ov.gif',1)"><img src="../images/nav_plant.gif" name="detail" border="0"></a></td>
+          <td width="50"><img src="../images/spacer.gif" width="50" height="5" border="0"></td>
+
+          <td id="cjNavMenu3"><a href="about-p0.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../images/nav_about_ov.gif',1)"><img src="../images/nav_about.gif" name="about" border="0"></a></td>
+          <td width="50"><img src="../images/spacer.gif" width="50" height="5" border="0"></td>
+
+          <td><a href="artical-default.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('coffin','','../images/nav_collection_ov.gif',1)"><img src="../images/nav_collection.gif" name="coffin" border="0"></a></td>
+          <td width="50"><img src="../images/spacer.gif" width="50" height="5" border="0"></td>
+
+          <td><a href="forum-p0.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('forum','','../images/nav_forum_ov.gif',1)"><img src="../images/nav_forum.gif" name="forum" border="0"></a></td>
+          <td width="50"><img src="../images/spacer.gif" width="50" height="5" border="0"></td>
+
+          <td><a href="blog.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('blog','','../images/menu/nav_blog_on.gif',1)"><img src="../images/menu/nav_blog.gif" name="blog" border="0"></a></td>
+          <td width="50"><img src="../images/spacer.gif" width="50" height="5" border="0"></td>
+
+          <td><a href="sitemap.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sitemap','','../images/nav_sitemap_ov.gif',1)"><img src="../images/nav_sitemap.gif" name="sitemap" border="0"></a></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<form id="artical_full_search" method="post" style="margin:0; padding:0">
+<input type="hidden" name="order" value="ad">
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF"><img src="../images/key_04.jpg" border="0"></td>
+  </tr>
+  <tr>
+    <td height="25" align="center" valign="bottom" bgcolor="#FFFFFF"> <table width="860" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left"><span class="gy12"><a href="index.htm">首頁</a> / </span><span class="be12"><a href="artical-default.htm">白話字數位典藏</a></span></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#FFFFFF"><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#FFFFFF"><table width="860" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="30" valign="top" class="be15 f16" align="left">白話字數位典藏全文檢索</td>
+        </tr>
+        <tr>
+          <td height="90" align="center" bgcolor="#D1E2D0"> <table width="95%" border="0" cellspacing="0" cellpadding="2">
+              <tr>
+                <td width="70" class="be13b f14" align="left">查詢模式</td>
+                <td align="left">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><input name="keyword" type="text" class="style f14" value="請輸入關鍵字" size="23" default="請輸入關鍵字" msg="請輸入關鍵字"></td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td><select id="a_period" class="style f14"><option label="選擇年代" value="0" selected="selected">選擇年代</option>
+<option label="清國時代(1885-1895)" value="1">清國時代(1885-1895)</option>
+<option label="日本時代(1895-1945)" value="2">日本時代(1895-1945)</option>
+<option label="戰後(1945-1969)" value="3">戰後(1945-1969)</option>
+<option label="1885-1895" value="4">1885-1895</option>
+<option label="1896-1905" value="5">1896-1905</option>
+<option label="1906-1915" value="6">1906-1915</option>
+<option label="1916-1925" value="7">1916-1925</option>
+<option label="1926-1935" value="8">1926-1935</option>
+<option label="1936-1945" value="9">1936-1945</option>
+<option label="1946-1955" value="10">1946-1955</option>
+<option label="1956-1965" value="11">1956-1965</option>
+<option label="1966-1969" value="12">1966-1969</option>
+<option label="1970-1980" value="13">1970-1980</option>
+<option label="1980-1990" value="14">1980-1990</option>
+<option label="1990-2000" value="15">1990-2000</option>
+<option label="2000-2010" value="16">2000-2010</option>
+<option label="2010-" value="17">2010-</option>
+</select></td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td><select id="a_ctype_id" class="style f14"><option label="選擇文類" value="1">選擇文類</option>
+<option label="詩" value="2">詩</option>
+<option label="散文" value="3">散文</option>
+<option label="小說" value="4">小說</option>
+<option label="戲劇" value="5">戲劇</option>
+<option label="傳記" value="7">傳記</option>
+</select></td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td><select id="a_author_id" class="style f14"><option label="選擇作者" value="0" selected="selected">選擇作者</option>
+<option label="" value="1"></option>
+<option label="陳清忠" value="20">陳清忠</option>
+<option label="陳清義" value="10">陳清義</option>
+<option label="編輯部" value="47">編輯部</option>
+<option label="柯設偕" value="9">柯設偕</option>
+<option label="吳天命" value="39">吳天命</option>
+<option label="明有德" value="49">明有德</option>
+<option label="偕叡廉" value="8">偕叡廉</option>
+<option label="周天來" value="19">周天來</option>
+<option label="劉華義" value="249">劉華義</option>
+<option label="王守勇" value="111">王守勇</option>
+<option label="林茂生" value="333">林茂生</option>
+<option label="陳添旺" value="11">陳添旺</option>
+<option label="王占魁" value="319">王占魁</option>
+<option label="柯維思" value="18">柯維思</option>
+<option label="賴仁聲" value="6">賴仁聲</option>
+<option label="陳瓊琚" value="7">陳瓊琚</option>
+<option label="雪峰逸嵐" value="51">雪峰逸嵐</option>
+<option label="吳清鎰" value="155">吳清鎰</option>
+<option label="郭水龍" value="36">郭水龍</option>
+<option label="蕭樂善" value="26">蕭樂善</option>
+<option label="許水露" value="175">許水露</option>
+<option label="葉金木" value="5">葉金木</option>
+<option label="陳金然" value="118">陳金然</option>
+<option label="章王由" value="295">章王由</option>
+<option label="廖得" value="85">廖得</option>
+<option label="鄭連坤" value="282">鄭連坤</option>
+<option label="楊士養" value="52">楊士養</option>
+<option label="潘道榮" value="103">潘道榮</option>
+<option label="梁秀德" value="356">梁秀德</option>
+<option label="劉約翰" value="37">劉約翰</option>
+<option label="周淑慧" value="327">周淑慧</option>
+<option label="高金聲" value="13">高金聲</option>
+<option label="林燕臣" value="17">林燕臣</option>
+<option label="黃六點" value="351">黃六點</option>
+<option label="蔡愛義" value="331">蔡愛義</option>
+<option label="許有才" value="292">許有才</option>
+<option label="主筆" value="393">主筆</option>
+<option label="巴克禮" value="2">巴克禮</option>
+<option label="陳鳩水" value="382">陳鳩水</option>
+<option label="郭朝成" value="348">郭朝成</option>
+<option label="張基全" value="114">張基全</option>
+<option label="陳明清" value="311">陳明清</option>
+<option label="陳能通" value="34">陳能通</option>
+<option label="拾穗生" value="56">拾穗生</option>
+<option label="顏振聲" value="349">顏振聲</option>
+<option label="卓恆利" value="290">卓恆利</option>
+<option label="傳道局" value="140">傳道局</option>
+<option label="胡文池" value="73">胡文池</option>
+<option label="劉主安" value="341">劉主安</option>
+<option label="鄭兒玉" value="60">鄭兒玉</option>
+<option label="駱先春" value="464">駱先春</option>
+<option label="莊清華" value="463">莊清華</option>
+<option label="希望生" value="462">希望生</option>
+<option label="鄧uî-chèng" value="461">鄧uî-chèng</option>
+<option label="周Se̍k-lîn" value="460">周Se̍k-lîn</option>
+<option label="陳Chiū-lîm" value="459">陳Chiū-lîm</option>
+<option label="廖Suī-lú" value="458">廖Suī-lú</option>
+<option label="王oá" value="457">王oá</option>
+<option label="胡Bō͘-seng" value="456">胡Bō͘-seng</option>
+<option label="編輯室" value="455">編輯室</option>
+<option label="劉Koan-hiông" value="453">劉Koan-hiông</option>
+<option label="呂春長" value="452">呂春長</option>
+<option label="黃秋財" value="451">黃秋財</option>
+<option label="張信德" value="450">張信德</option>
+</select></td>
+                    </tr>
+                  </table>
+                </td>
+                <td align="left">
+                  <a href="gsearch.htm?submit=true">Google Search</a>
+                  <br />
+                  <a href="http://pojbh.lib.ntnu.edu.tw/script/ysearch.htm?submit=true">Yahoo Search</a>
+                </td>
+              </tr>
+              <tr>
+                <td><img src="../images/spacer.gif" width="5" height="30" border="0"></td>
+                <td colspan="2" align="left"><table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td class="gy12 f14"><label><input type="radio" name="field" value="0" checked="checked" />全部</label><img src="../images/spacer.gif" width="10" height="5" border="0">
+<label><input type="radio" name="field" value="1" />刊名</label><img src="../images/spacer.gif" width="10" height="5" border="0">
+<label><input type="radio" name="field" value="2" />標題</label><img src="../images/spacer.gif" width="10" height="5" border="0">
+<label><input type="radio" name="field" value="3" />標題(教羅)</label><img src="../images/spacer.gif" width="10" height="5" border="0">
+<label><input type="radio" name="field" value="4" />全文</label><img src="../images/spacer.gif" width="10" height="5" border="0">
+<label><input type="radio" name="field" value="5" />全文(教羅)</label><img src="../images/spacer.gif" width="10" height="5" border="0">
+<label><input type="radio" name="field" value="6" />作者</label><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td><input type="image" src="../images/btn_search.gif" align="absmiddle"></td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td class="f14">
+                      	                      	<a href="artical-default.htm"><img src="../images/btn_backclass.gif" align="absmiddle" border="0" /></a>
+                      	                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!--
+              <tr>
+                <td><img src="../images/spacer.gif" width="5" height="30" border="0"></td>
+                <td><table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td class="gy12"> <input type="checkbox" name="checkbox" value="checkbox">
+                        全部搜尋</td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td class="gy12"> <input type="checkbox" name="checkbox2" value="checkbox">
+                        電子全文</td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td class="gy12"> <input type="checkbox" name="checkbox3" value="checkbox">
+                        影像全文</td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td class="gy12"> <input type="checkbox" name="checkbox4" value="checkbox">
+                        照片</td>
+                      <td><img src="../images/spacer.gif" width="10" height="5" border="0"></td>
+                      <td><a href="#"><img src="../images/btn_search.gif" width="69" height="20" border="0" align="absmiddle"></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              -->
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</form>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+      <table width="860" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="30" valign="top" class="be15"></td>
+        </tr>
+        <tr>
+          <td height="30" valign="middle" class="be12">
+          	<table width="100%" cellpadding="0" cellspacing="0">
+          	  <tr>
+          	    <td align="left" class="be12">第4頁，共141頁(共2,805筆資料) 0.67084622383118sec</td>
+                <td align="right" class="be12"><table border="0" cellspacing="0" cellpadding="0"><tr><td align='left'><a href='artical-dtap2.htm'><img src='../images/btn_pre.gif' width='50' height='20' border='0'></a></td><td align="left"><a href='artical-dtap0.htm'>&nbsp;&nbsp;<span class='gy13'>1</span>&nbsp;&nbsp;</a></td><td class='gy13'><td>&nbsp;&nbsp;<a href='artical-dtap1.htm'><span class='gy13'>2</span></a>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href='artical-dtap2.htm'><span class='gy13'>3</span></a>&nbsp;&nbsp;</td><td class='be13b'>&nbsp;&nbsp;4&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href='artical-dtap4.htm'><span class='gy13'>5</span></a>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href='artical-dtap5.htm'><span class='gy13'>6</span></a>&nbsp;&nbsp;</td><td><td align="left">...<a href='artical-dtap140.htm'>&nbsp;&nbsp;<span class='gy13'>141</span>&nbsp;&nbsp;</a></td><td align='right'><a href='artical-dtap4.htm'><img src='../images/btn_next.gif' width='50' height='20' border='0'></a></td><td class='be13b f14'>&nbsp;&nbsp;To Page &nbsp; </td><td><input id='inpPage' url='artical-dtap' max='141' class='style f14' type='text' value='4' size='2'></td><td>&nbsp;<a href="artical-d0t0a0p3.htm&amp;order=ad#" id="chgPage">GO</a></td></tr></table></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="30" valign="middle" class="be15"><table width="100%" height="30" border="0" cellpadding="2" cellspacing="0">
+            <tr>
+              <td bgcolor="#CAE5EA"><table width="100%" height="26" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                <tr>
+                  <td align="left" class="be12"><table border="0" cellspacing="0" cellpadding="0" class="be12 f14"><tr><td><img src="../images/arrow_01.gif" width="10" height="10" hspace="10" vspace="5"></td><td class="f14"><a href='artical-d0t0a0p3.htm&amp;list=0'>文字列表</a></td><td><img src="../images/arrow_01.gif" width="10" height="10" hspace="10" vspace="5"></td><td class="f14">圖文列表</td></tr></table></td>
+                  <td>&nbsp;</td>
+                  <td align="right" class="be12"><table border="0" cellspaccing="0" cellpadding="0" class="be12 f14"><td class="f14">排序</td><td>&nbsp;</td><td><a href='artical-d0t0a0p3.htm&amp;order=pa'>日期</a></td><td>&nbsp;</td><td><a href='artical-d0t0a0p3.htm&amp;order=ta'>文類</a><td>&nbsp;</td><td><a href='artical-d0t0a0p3.htm&amp;order=ca'>刊名</a><td>&nbsp;</td><td><a href='artical-d0t0a0p3.htm&amp;order=aa'><img src='../images/arrow_01.gif' border='0' />&nbsp;&nbsp;作者</a><td>&nbsp;</td><td><a href='artical-d0t0a0p3.htm&amp;order=sa'>影像</a></td></tr></table></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="2"><img src="../images/spacer.gif" width="10" height="4"></td>
+        </tr>
+        <tr>
+          <td background="../images/line_05.gif">&nbsp;</td>
+        </tr>
+      </table>
+      <table width="860" border="0" cellspacing="1" cellpadding="0">
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1937-7 台灣教會公報/芥菜子 文類-散文 作者-駱先春/Lo̍k Sian-chhun]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-5567.htm">耶和華啊，救你的百姓 [ Iâ-hô-hoa ah, kiù Lí ê peh-sìⁿ ]</a></span>
+          	  <br />
+              <span class="gy12">耶和華啊，救你的百姓
+耶利米31：7
+駱先春
+1937年7月628期      23-25
+ 
+現時的教會所著對主求--的，用這句來指示咱是真合。求主來奮興教會佮奮興屬伊的信徒，這通做咱祈禱的主眼點。
+咱求講，「耶和華啊，救你的百姓」，通顯明教會是徛佇危機的潮流中。上帝的攝理佮應允無變換。看過去的歷史，教會常常踮佇危機的環境內，總是上帝有拯救--伊，予伊徛在佇真理的石磐頂。
+現今咱教會的最大危機，毋是對外界來的工作，就是對內部所生起的撞突；所講的危機，就是基督徒的道德上的缺陷佮精神上的無力。
+看以色列百姓佇曠野的狀況就知，阻擋經過曠野的是甚物？毋是濟濟的對敵，因為上帝有時刻引c...<a href="artical-5567.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1937-6 台灣教會公報 文類-散文 作者-駱先春/Lo̍k Sian-chhun]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-5551.htm">肉體內有刺(B) [ Jio̍k-thé-lāi ū chhì ]</a></span>
+          	  <br />
+              <span class="gy12">「肉體內有刺」(B)
+接4月號23面
+駱先春
+1937年6月627期      23-26
+ 
+  Taⁿ論「肉體有刺」，有真濟的說佇咧，來研究遮的是不止心適的事。有的是對空想來生--出--的，有的檢采會信-得；總是無一說是確實性佇咧。
+  Taⁿ愛分做3大項來論，就是：(I)肉體的病疼。(II)外部的困難。(III)心神上的試煉。
+  I. 肉體的病疼。
+無論甚物人，伊的身軀若有破病，抑是無拄好，註釋家共伊號做肉體內的刺。譬喻親像頭殼疼，耳仔疼，青盲，消化不良，羊眩，憂鬱病等，總是較有關係--的，就是眼炎，羊眩，頭殼疼。
+  (1)急性的眼炎。
+這款的病，佇東洋真時行，特...<a href="artical-5551.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1937-4 台灣教會公報/芥菜子 文類-散文 作者-駱先春/Lo̍k Sian-chhun]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-5521.htm">肉體內有刺(A) [ Jio̍k-thé-lāi ū chhì(A) ]</a></span>
+          	  <br />
+              <span class="gy12">肉體內有刺(A)
+駱先春
+1937年4月625期     23-25
+ 
+保羅為著閣活的主傳福音，無論佇內，佇外，常常有試煉佮困難的事咧觸纏。佇伊的生涯中有常常佮猶太人，異邦人，抑是假做的兄弟論爭。常常孤單一个，用伊兩支的手來抵敵當時的全世界，亦無某，囝，查某囝予伊歡喜，抑是顧伊。獨獨伊有基督佇伊的身邊，賜伊有氣力通抵擋一切兇惡的權勢。
+保羅所著抗爭艱難的一項，就是佇加拉太4：13-15佮哥林多後書12：7-9所記載的事。這兩張批是佇伊的生涯中同一个時期所寫的 ，所以所論的事，通講是關係siāng款的困難。
+有讀著美國長老教會的神學評論，內面有Philip Schaff博士咧論起保...<a href="artical-5521.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1937-3 台灣教會公報/芥菜子 文類-散文 作者-駱先春/Lo̍k Sian-chhun]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-5506.htm">用心吟詩呵咾主 [ ēng sim gîm-si o-ló Chú ]</a></span>
+          	  <br />
+              <span class="gy12">用心吟詩呵咾主
+(紲接前號)
+駱先春
+1937年3月624期     25-28
+ 
+前號第26面以下所出有幾若位佮原稿無對的所在，佇遮代先愛照順序訂正：
+  第41首，譜的名稱「Hungtingder」著改做「Hungtingtower」。
+  第53首，話的作者「Baxer」著閣做「Baxter」。
+首頭第24首，著改做第54首。
+  第67首，「d」著改做下的記號「b」。
+  第70首「Ha-pa-kok」著改做「Hap-pa-kok」。
+首頭「71B」著改做「78B」。
+  第93首，作曲者「Barkwort」著改做「Barkworth」。
+  第114首，第...<a href="artical-5506.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1937-2 台灣教會公報/芥菜子 文類-散文 作者-駱先春/Lo̍k Sian-chhun]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-5489.htm">用心吟詩呵咾主 [ ēng sim gîm-si o-ló Chú ]</a></span>
+          	  <br />
+              <span class="gy12">用心吟詩呵咾主
+駱先春
+1937年2月623期     26-28
+ 
+看報的兄姊！為著欲「用心吟詩作樂來呵咾主，」毋知恁已經有新聖詩的試用版佇恁的手抑無？猶有賰淡薄，請疼主佮主的聖會的兄姊，以及致意想愛援助聖詩部會，通予in備辦較拄好的聖詩，來予教會做呵咾主的路用的篤志家，抑是欲引chhoā會眾來吟詩敬拜主的聖歌隊員，佮有趣味佇教會音樂的同僚兄姊，著趕緊來注文去試用。有真濟人teh想愛佇正版發行的時才來買，總是照看正版袂會連鞭通出版的款。因為著愛用心神來交涉，探聽印版的事。照部會的決議，有拜託各教會著負擔Y 1.00以上，通做維持印試用版的所費，這幫若無來注文的教會，已經有攏寄一本去...<a href="artical-5489.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1934-9 台灣教會公報 文類-傳記 作者-莊清華/Chng Chheng-hoâ]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-4995.htm">數念倒去的人 [ Siàu-liām tò-khì ê lâng ]</a></span>
+          	  <br />
+              <span class="gy12">I. 數念倒去的人
+(東後寮：莊清華)
+1934.9，no.594，pp.11
+  佇4月10日，敝會有兩个熱心的姊妹，siāng時相chhoā轉去爸兜。In佇世間真熱心，也致意為主著磨，所以予我著寫幾句來數念in。
+  1. 柯--氏Gê。是柯Liòng長老的第二千金。佇兩年前嫁沈Tiông執事(伊今年新任執事)。In一家信道理無偌久，得著沈Tiông嫂gâu招呼，予in一家熱心服事上帝。佇4月1日起病，4月10日過身。佇10日下晡8點開聲講，「大家啊，我欲倒來去啦。」厝邊鄰右來看，也街內的人攏佇伊身邊，人問伊，講，你欲倒去佗位？應講，「欲倒去耶穌兜，天堂。」伊一生21年久，有幾若項...<a href="artical-4995.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1934-7 台灣教會公報 文類-散文 作者-希望生/Hi-bōng-seng]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-4953.htm">傳教師娘修養會的期待 [ Thoân-kàu-su-niû Siu-ióng-hoē ê Kî-thāi ]</a></span>
+          	  <br />
+              <span class="gy12">傳教師娘修養會的期待
+(希望生)
+1934.7，no.592，pp.5-6
+  傳教師娘修養會欲到，敢是7月4號啦。眾役員穩當真無閒，teh準備。我信，穩當有備辦真豐盛活命的好物；時到，通親像真gâu的廚子料理真美味盛大的go-chí-só (生臊)。拍算敢毋若佇廚房內teh準備若定，也有teh調查看是幼秀人客抑是草地人客，是欲予人食飽--的，抑是欲食巧--的；若按呢，就受請的人客，毋若欲呵咾生臊，也欲呵咾好食，因為予in也飽，也巧。
+  論這款修養會，卻欲逐項攏合逐人的欠缺，實在是僫，因為遮的傳教師娘的年歲無平，學歷有高低，經驗有濟少，環境有好bái；所以in逐人所欠--的有各樣。總...<a href="artical-4953.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1934-3 台灣教會公報 文類-散文 作者-鄧uî-chèng/Tēng uî-chèng]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-4882.htm">基督教的貧富觀 [ Ki-tok-kàu ê Pîn-hù koan ]</a></span>
+          	  <br />
+              <span class="gy12">基督教的貧富觀
+(鄧uî-chèng)
+1934.3，no.588，pp.7
+世間人所teh講的貧富，是屬佇世間的物質的總稱呼。所以世間人無論貧富，對這个物質觀念心不止重，對重親像人第一要緊的性命根一般樣。毋若是個人，就家庭，社會，國家閣較是按呢，無論欲做甚物也是錢做第一有實力。人人為著這个物質致到爭利，奪權，人命喪失，生出慘淡的事也袂少。人若求好額到毋知飽，就人情義理也無teh想，致到用不正當的手段生出投機事業，受賄事件，詐欺，取財，其他種種是按呢的原因lah！俗語講，「金錢是世間人的對敵」，實在是有合佇今仔日的現狀lah！今仔日的時勢到這款，毋知欲用甚物法度來解決這款的su-tiau...<a href="artical-4882.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1934-3 台灣教會公報 文類-散文 作者-周Se̍k-lîn/Chiu Se̍k-lîn]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-4884.htm">兄弟愛的交陪 [ Hiaⁿ-tī ài ê kau-poê ]</a></span>
+          	  <br />
+              <span class="gy12">兄弟愛的交陪
+(行傳2：42)
+(周Se̍k-lîn)
+1934.3，no.588，pp.11-12
+  使徒行傳第2章的尾仔有記聖神降臨的大事件的了後，用新新的結合來成立的最初的基督教會的生活款，用真媠的筆緻來記明不止有要領。
+  第1，「常常專務使徒的教示。」當時猶未有聖冊，減采有文書nā-tiāⁿ，耶穌的直弟子 (耶穌直接，招的學生)受揀選做指導者，來相佮談論遐的連眠夢中也無袂記得的耶穌的言行，以及使徒所體驗福音的真理來相佮研究，愈成長佇上帝的恩惠。
+  第2，「相佮交陪。」就是表明信者同志的真堅固的兄弟愛的實行。這个兄弟愛成做一个儀式=第3，「Peh餅.」就是信者的家，有家...<a href="artical-4884.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1934-2 台灣教會公報 文類-散文 作者-周Se̍k-lîn/Chiu Se̍k-lîn]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-4866.htm">說教：入上帝國 [ Soat-kàu: Ji̍p Siōng-tè kok ]</a></span>
+          	  <br />
+              <span class="gy12">入上帝國
+(馬太19：16-30)
+(周Se̍k-lîn)
+1934.2，no.587，pp.8
+  耶穌講，富人入上帝的國是比駱駝穿過針鼻較為難。學生聽了著生驚。總是對彼霎以來，綴耶穌的人就曉悟耶穌所講的，實在是真實無錯。「針鼻」減采是teh指早猶太國的城市欲入城的所在有一個城門，彼中間有一個叫做針鼻，到欲暗大門關起來，駱駝較慢入城，就著穿過彼个針鼻，真歹入，尻脊骿佮腹肚邊減采著lè到liù皮也無的確。所以若想財產的影響到佇人的品性，詳細來研究，就耶穌講駱駝穿過針鼻比富人入上帝的國猶較快，這个意思不止深長，予咱會確信實在是按呢。換話來講，人若是有錢財，有厝宅，有田園，自按呢欲來去入上...<a href="artical-4866.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1934-1 台灣教會公報 文類-散文 作者-陳Chiū-lîm/Tân Chiū-lîm]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-4850.htm">信，會看著上帝的榮光 [ Sìn, ē khoàⁿ-tio̍h Siōng-tè ê êng-kng ]</a></span>
+          	  <br />
+              <span class="gy12">信，會看著上帝的榮光
+(赤水：陳Chiū-lîm記)
+1934.1，no.586，pp.17
+  昭和7年2月，家母病傷重，請醫生食藥有較好。後來起別症，袂行。醫生用電氣墊，注射，後來會行。不幸閣起症頭，就是腰子病，肝病，腹肚較懸心肝，全身汗水，袂行，袂坐。
+  啊！74歲的老人，來拄著這號病，淒慘用筆袂通形容。醫生講，老人發這號症，較oh好；吩咐毋通食油臊。對4月初到5月初，直直食藥無較好。家母志願毋食藥，欲去拜堂請主督官共伊祈禱，死活由在主。我就照伊的話，予伊蹛拜堂。
+　五月9號，去拜堂。主督共講，「你ê年歲赫濟，毋通直直求欲蹛世間，著向望天堂的福氣較好，主若歡喜恩典是真好，伊若...<a href="artical-4850.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1965-6 台灣教會公報 文類-戲劇 作者-廖Suī-lú/Liāu Suī-lú]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-12523.htm">抾著的性命 [ KHIOH-TIOH Ê SÌⁿ-MIĀ ]</a></span>
+          	  <br />
+              <span class="gy12">-百週年紀念寫作比賽-文藝組：第二名入選Khioh著ê性命Liāu Suī-lú1965.06.15 P.36-42
+※※※※人物※※※※Se-bûn，Phek-san：夫婦。Chó-chì： (童年kap成人)。Má-lī：Se-bûn夫婦ê 奴隸， Chó-chì ê老母。土匪： A. B. C.小學生數名（數名）。先生:學校ê老師。Chùn-gē：大學生，是好額子弟。Lē-ná：大學生數名（若干名）。大學校長。農民： A. B. C. D.囡仔兩人省長，館長，總統秘書，十字會會長。
+第 I 幕Se： Phek-san！今á日我tī 十字路口看著一張ê告示，叫人著注意，小心保護家己ê ...<a href="artical-12523.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1959-9 台灣教會公報 文類-散文 作者-王oá/Ông oá]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-9062.htm">雜錄個人消息 [ Cha̍p-lio̍k Kò-jîn siau-sit ]</a></span>
+          	  <br />
+              <span class="gy12">個人消息一喙咬斷4條藤的和美故黃福長老的小傳王oá1959年9月849期 p.26七月13號，屬和美教會長老黃福79歲過身。伊21歲信道理，伊所蹛是線西鄉ùn-á，當時和美猶未設教會著愛教會彰化禮拜；對ùn-á到彰化愛行路2點鐘欠，雖然路遠若是每禮拜是比在彰化的人代先到。25歲佇彰化對林學恭牧師領洗禮；30歲當執事，15年久，45歲當長老，10年久，55歲來彰化醫館做工極搰力認真，對患者極親切，61歲入做彰化客運線路夫，平常60歲就退役，伊61受採用，通知伊身體的健康佮做工的盡忠，66歲予伊的囝孫ko͘-chiâⁿ伊退休，對66歲起蹛家庭就是每早起到拜堂掃地，種花沃水，所以13年久每日是按呢拜...<a href="artical-9062.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1959-8 台灣教會公報 文類-散文 作者-胡Bō͘-seng/Ô͘ Bō͘-seng]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-9038.htm">青年T.K.C.會員kap傳道 [ Chheng-liân T.K.C. hoē-oân kap thoân-tō ]</a></span>
+          	  <br />
+              <span class="gy12">T.K.C. 會員佮傳道。胡Bō͘-seng1959年8月848期 p.17-19(1)頭序基督教是傳道的宗教，傳報福音做咱的活命佮特色。傳道是上帝本身的工作，上帝差伊所有一个囝來世間也是只有為著傳道，閣為著傳道放拺性命。閣再主的遺言也是叫咱著傳道（馬可16:15）。咱看對原始基督教到現在有教會，有信徒，就有人無停接紲傳十字架拯救的福音做in唯一的使命　耶穌為著傳道理，雖罔有上帝的形狀榮耀，總是無掠佮上帝平等，謙卑屈低，拼空家己，取奴僕的形狀，才會通完成。咱T.K.C.會員若欲傳道理，這个根本精神毋通袂記得，這个精神若無-去，就是袂通傳道理。現在台灣的信徒差不多猶袂到2%，98%的人欲沈淪，彼...<a href="artical-9038.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1968-10 台灣教會公報 文類-散文 作者-編輯室/Phian-chhip-sek]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-11571.htm">價值推行的一項事工 [ Kà-tit chhui-hêng ê chi̍t hāng sū-kang ]</a></span>
+          	  <br />
+              <span class="gy12">價值推行的一項事工
+編輯室
+1968.10.15  1040號P.13-14
+ 
+佇今年7月所召開的新宣農村年研究會，以及第15屆第2次的總Uí會，攏有論起「儲蓄互助社」的問題。
+明年是新宣農村年，照趨勢，儲蓄互助社的鼓舞應該成做重要推行的一項目標。
+這個互助社是佇1848年佇德國成立的。當時的目的是「非營利，非救濟，是為服務」(非為營利，非為救濟，乃為服務)。目的正，主旨好，所以佇20年間傳教全球80的國家，共有成立4萬9千的互助社，成績非常好。
+咱中國是天主教代先響應；佇民國53年，新竹市西門町天主教成立頭的互助會，現成立頭一個互助會，現在已經有90外個。咱總會佇3年前才對山...<a href="artical-11571.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1959-8 台灣教會公報 文類-散文 作者-編輯室/Phian-chhip-sek]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-9036.htm">見證台灣ê信仰 [ Kiàn-chèng Tâi-oân ê sìn-gióng ]</a></span>
+          	  <br />
+              <span class="gy12">台灣的信仰編輯室1959年8月848期 p.15-16遮有介紹幾篇台灣的好的信仰實例。台灣傳教到今已經90外年，自前就已經真濟信仰上英勇的故事，到今若欲寫起來，穩當是已經通做幾若本冊；總是本編輯室見聞無濟，想愛寫，也猶未有偌濟通寫。佇遮先報這2篇，範圍內也有濟濟這款好的信仰實例。這款的例明明是台灣所產生的信仰，所以叫做「台灣的信仰」，也是實在的見證。若有人歡喜寫來出佇本報，閣毋是kan-ta為著欲替人宣傳好名聲，就是愛對按呢來報揚台灣所出產偉大的信仰通榮光主的名，就是編者的大幸福lah！用扁擔柄阻止問神明。佇彰化縣員林佮花壇中間，有一所在叫做中莊，莊頭相當中，大部份是姓李。總是攏無人信主，只有...<a href="artical-9036.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1959-6 台灣教會公報 文類-散文 作者-劉Koan-hiông/Lâu Koan-hiông]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-12718.htm">台中佮南投縣ê Tayal (泰雅爾) 族 [ Tāi-tiong kap Lâm-tâu koān ê Tayal (Thài-ngá-ní) cho̍k ]</a></span>
+          	  <br />
+              <span class="gy12">台中佮南投縣ê Tayal(泰雅爾)族(劉Koan-hiông)1959年6月846期             p.9-10鄙人佇遮愛報告山頂ê工作，對按呢通得著大家ê鼓勵佮代禱。A-mēn！佇我ê冊房ê工作佮中會內ê工作以外，我有常常peh山幫忙山頂ê教會ê工作。佇遮ê工作ê中間，阮有感覺上帝ê靈有大大做工佇山頂ê教會。佇這幾個月內佇南投ê仁愛鄉，佮台中ê和平鄉，佮苗栗ê泰安鄉內有舉行Tayal（泰雅爾）ê講習會。將in家己ê話，讀in所準備ê冊，佮詩歌。將來會曉讀in家己ê話ê聖經。In對這个，興趣真大，閣進步真快，效果真大。佇桃園縣佮苗栗縣，最近也有舉行婦女衛生ê講習會。5月6-9日抑欲...<a href="artical-12718.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1966-2 台灣教會公報 文類-散文 作者-呂春長/Lū Chhun-tiông]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-12592.htm">看伊ê做人(故楊Tì-siong長老) [ Khoàⁿ I ê choè lâng (Kò͘ Iûⁿ Tì-siong Tiúⁿ-ló) ]</a></span>
+          	  <br />
+              <span class="gy12">看伊ê做人(故楊Tì-siong長老)呂春長1966。02。15 P。8-91966。03。01 P。15-16、20
+   現在我用沉重 ê心kap 數念ê前，來寫淡薄咱所敬疼，值得人數念kap效法ê 故 Iûⁿ Tì-siông長老ê 履歷，以及伊ê做人。   Kò͘ Tì-siông長老， 享年66 歲。伊tī 民國前12年2月13日出世 tī台南縣 仁德鄉。 自 幼 hù-聖liông-liān，聰明，孝順母親，尊敬兄哥。    國校5年ê時，就考上師範學校(當時稱做國語學校)。在學中敬大疼細，幫贊同學 koà 蠓罩kap 折被， 這個事hō͘伊ê老同學 Chu Bān-sêng先生...<a href="artical-12592.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="white" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1966-10 台灣教會公報 文類-散文 作者-黃秋財/N̂g Chhiu-châi]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-12601.htm">故張Kim-iû長老 [ Kò͘ Tiuⁿ Kim-iû Tiúⁿ-ló ]</a></span>
+          	  <br />
+              <span class="gy12">故張Kim-iû長老黃秋財1966.10.15 P.13-14
+    最近(9月16日下午 2 點 30 分)， tī 屏東中會 ê溪洲教會有失落一位教界重要可敬ê長老，就是張Kim-iû長老。伊tī台灣青果（青果）界也是一位聞名 ê人物，也是一位剛毅（剛毅）， 廉正（廉正）， 篤信（篤信）， 愛人（愛人）ê人。伊ê氣勢 不但是伊ê 遺族受tio̍h真大ê打擊，對tī教會是真大ê損失。    Tī chia我來寫伊ê戮力 kap伊ê做人來追念伊。    1。 戮力。    伊出世tī 1915年1月13日，iā tī 1934年結婚；有4 男， 3 女。伊tī 1934年畢業屏東農業學校，...<a href="artical-12601.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr bgcolor="#fffff9" onmouseover="this.className='trl'" onmouseout="this.className='trn'">
+          <td align="center">
+          	          	<div style="display:inline; margin:0px 0px 0px 10px; width:auto; float:left; text-align:left;">
+          	  <span class="gn13b">[1958-3 台灣教會公報 文類-散文 作者-張信德/Tiuⁿ Sìn-tek]</span>
+          	            	  <br />
+          	  <span class="be13b"><a href="artical-8673.htm">查經  雅各的生涯佮信仰 [ Cha-keng Ngá-kok ê seng-gâikapsìn-gióng ]</a></span>
+          	  <br />
+              <span class="gy12">雅各的生涯佮信仰(張信德寫)(接前月號第14面)1958年3月831期 p.17-18
+I.伯特利的經驗(創世記28：10-22)。 伯特利本名路斯。當雅各為著欲閃避以掃的受氣，欲去巴等亞蘭的路中佇遮歇暝。夢見有梯徛佇地裡，梯頂拄天，有上帝的使者佇梯裡teh上落。也有聽見上帝的應允，「我是耶和華......，你無論去tah落，我欲保護你......」對這个號雅各有一個經驗，就是「耶和華真正佇遮，我竟然毋知。」雅各原來所信的就是伊所敬拜的上帝，是亞伯拉罕的上帝，以撒的上帝。這个上帝。這个上帝是踮佇伊的家庭teh保護in的上帝。今雅各佇路斯感覺伊的孤單，毋若kan-ta離開父母若定；也ná親像離...<a href="artical-8673.htm"><img src="../images/btn_more.gif" hspace="5" border="0" align="absmiddle" /></a></span>
+            </div>
+          </td>
+        </tr>
+        <tr style="background:white; margin:0; padding:0">
+          <td><img src="../images/spacer.gif" width="5" height="25" border="0"></td>
+        </tr>
+                <tr>
+          <td height="30" valign="middle" class="be12">
+          	<table width="100%" cellpadding="0" cellspacing="0">
+          	  <tr>
+          	    <td align="left" class="be12">第4頁，共141頁(共2,805筆資料)</td>
+                <td align="right" class="be12"><table border="0" cellspacing="0" cellpadding="0"><tr><td align='left'><a href='artical-dtap2.htm'><img src='../images/btn_pre.gif' width='50' height='20' border='0'></a></td><td align="left"><a href='artical-dtap0.htm'>&nbsp;&nbsp;<span class='gy13'>1</span>&nbsp;&nbsp;</a></td><td class='gy13'><td>&nbsp;&nbsp;<a href='artical-dtap1.htm'><span class='gy13'>2</span></a>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href='artical-dtap2.htm'><span class='gy13'>3</span></a>&nbsp;&nbsp;</td><td class='be13b'>&nbsp;&nbsp;4&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href='artical-dtap4.htm'><span class='gy13'>5</span></a>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<a href='artical-dtap5.htm'><span class='gy13'>6</span></a>&nbsp;&nbsp;</td><td><td align="left">...<a href='artical-dtap140.htm'>&nbsp;&nbsp;<span class='gy13'>141</span>&nbsp;&nbsp;</a></td><td align='right'><a href='artical-dtap4.htm'><img src='../images/btn_next.gif' width='50' height='20' border='0'></a></td><td class='be13b f14'>&nbsp;&nbsp;To Page &nbsp; </td><td><input id='inpPage' url='artical-dtap' max='141' class='style f14' type='text' value='4' size='2'></td><td>&nbsp;<a href="artical-d0t0a0p3.htm&amp;order=ad#" id="chgPage">GO</a></td></tr></table></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <br><a href="artical-d0t0a0p3.htm&amp;order=ad#"><img src="../images/btn_top.gif" width="50" height="20" border="0" style="float:right"></a>
+    </td>
+  </tr>
+</table>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF"><table width="870" border="0" cellpadding="0" cellspacing="0" bgcolor="#D1E2D0">
+        <tr>
+          <td align="right" valign="top">
+          	<table border="0" cellspacing="0" cellpadding="0">
+          	  <tr>
+          	  	<td><a href="http://www.teldap.tw/index.php/" target="_blank"><img src="../images/logo_plan01.gif" vspace="10" border="0"></a></td>
+                <td align="left" valign="middle"><a href="http://www.teldap.tw/index.php/" target="_blank"><span style="font:10px arial;color: #006175; text-decoration:none">數位典藏國家型科技計劃</span></a></td>
+              </tr>
+              <tr>
+          	  	<td><a href="http://content.ndap.org.tw/index/" target="_blank"><img src="../images/logo_plan02.gif" vspace="10" border="0"></a></td>
+                <td align="left" valign="middle"><a href="http://content.ndap.org.tw/index/" target="_blank"><span style="font:10px arial;color: #006175; text-decoration:none">拓展台灣數位典藏計畫</span></a></td>
+              </tr>
+            </table>
+          </td>
+          <td width="150" valign="top"><a href="http://creativecommons.org.tw/" target="_blank"><img src="../images/logo_creative.gif" width="100" height="30" vspace="10" border="0"></a></td>
+          <td align="right" valign="bottom"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="right" class="gn12"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="right" class="gn12 f14">版權所有 國立台灣師範大學 台灣文化及語言文學研究所&copy;2008</td>
+                          </tr>
+                          <tr>
+                            <td align="right" class="gn12 f14">10610 台北市和平東路一段162號│TEL 02-7734-5516│Fax 02-2358-2461</td>
+                          </tr>
+                          <tr>
+                            <td><a href="mailto:khkp[@]ntnu.edu.tw"><img src="../images/btn_mail.gif" border="0"></a></td>
+                          </td>
+                        </table></td>
+                      <td width="80"><a href="http://www.ntnu.edu.tw/TCLL/" target="_blank"><img src="../images/logo_s.gif" hspace="5" border="0"></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td><img src="../images/spacer.gif" width="5" height="20" border="0"></td>
+              </tr>
+            </table>          </td>
+        </tr>
+      </table></td>
+  </tr>
+</table><table id="cjNavItem2" style="background:url(../images/menu_bg1.gif); position:absolute; top:-1000em;" border="0" cellpadding="0" cellspacing="0"><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="project-1.htm">計劃簡介 </a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="project-2.htm">典藏特色 </a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="project-3.htm">執行架構 </a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="project-4.htm">計畫典藏數位化流程</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="members.htm">成員介紹</a></td></tr></table><table id="cjNavItem3" style="background:url(../images/menu_bg1.gif); position:absolute; top:-1000em;" border="0" cellpadding="0" cellspacing="0"><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-2.htm">台灣白話字發展簡介</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-3.htm">巴克禮牧師與《台灣教會公報》</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-4.htm">廈門話字典-杜嘉德</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-5.htm">白話字教學-打馬字</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-6.htm">中國南方白話字發展</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-7.htm">台灣基督教長老教會簡表</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-8.htm">台灣基督教長老教會教會歷史委員會</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-9.htm">《北部台灣基督長老教會教會ê歷史》</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-10.htm">關於陳清忠</a></td></tr><tr><td height="2" id="dropdown" ><img src="../images/menu_line01.gif" width="100%" height="2" /></td></tr><tr><td height="20" id="dropdown" ><a href="about-12.htm">白話字文學：台灣文學的早春</a></td></tr></table>
+</body>
+</html>
