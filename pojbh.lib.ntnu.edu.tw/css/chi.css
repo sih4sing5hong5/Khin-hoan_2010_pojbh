@@ -1,0 +1,212 @@
+* {
+	font : 16px/1.5 "Taigi Unicode", "Taiwanese Fixed", "Taiwanese Serif";
+}
+.disable {
+	color:#ccc
+}
+.gy11 {
+	font-size:0.6em;
+	color: #6E6E6E;
+}
+.gy11   A:link{color:#6E6E6E; text-decoration:none; }
+.gy11   A:visited{color:#6E6E6E; text-decoration:none; }
+.gy11   A:hover{color:#6E6E6E; text-decoration:underline; }
+
+.gn10b {
+	font-size: 10pt;
+	line-height: 20px;
+	color: #02644c;
+}
+.gn10b   A:link{color:#02644c; text-decoration:none; }
+.gn10b   A:visited{color:#02644c; text-decoration:none; }
+.gn10b   A:hover{color:#056b9a; text-decoration:underline; }
+
+.be12 {
+	font-size: 12pt;
+	line-height: 20px;
+	color: #006175;
+}
+.be12   A:link{color:#006175; text-decoration:none; }
+.be12   A:visited{color:#006175; text-decoration:none; }
+.be12   A:hover{color:#006175; text-decoration:underline; }
+
+
+.gn12 {
+	font-size:0.5em;
+	color: #659462;
+}
+.gn12   A:link{color:#749C71; text-decoration:none; }
+.gn12   A:visited{color:#749C71; text-decoration:none; }
+.gn12   A:hover{color:#006175; text-decoration:underline; }
+
+
+.gy12 {
+	font-size: 12pt;
+	line-height: 1.8;
+	color: #6E6E6E;
+}
+.gy12   A:link{color:#6E6E6E; text-decoration:none; }
+.gy12   A:visited{color:#6E6E6E; text-decoration:none; }
+.gy12   A:hover{color:#6E6E6E; text-decoration:underline; }
+
+
+.gy12b {
+	font-size: 1em;
+	color: #6F6F6F;
+	font-weight: bolder;
+}
+.gy12b   A:link{color:#FFFFFF; text-decoration:none; }
+.gy12b   A:visited{color:#FFFFFF; text-decoration:none; }
+.gy12b   A:hover{color:#FFFFFF; text-decoration:underline; }
+
+
+.gy12ul {
+	font-size: 12pt;
+	line-height: 24px;
+	color: #6E6E6E;
+}
+.gy12ul   A:link{color:#6E6E6E; text-decoration:underline; }
+.gy12ul   A:visited{color:#6E6E6E; text-decoration:underline; }
+.gy12ul   A:hover{color:#6E6E6E; text-decoration:none; }
+
+
+.gn12 {
+	font-size: 12pt;
+	line-height: 20px;
+	color: #659462;
+}
+.gn12   A:link{color:#749C71; text-decoration:none; }
+.gn12   A:visited{color:#749C71; text-decoration:none; }
+.gn12   A:hover{color:#006175; text-decoration:underline; }
+
+
+.gn12b {
+	font-size: 12pt;
+	line-height: 20px;
+	color: #02644c;
+}
+.gn12b   A:link{color:#02644c; text-decoration:none; }
+.gn12b   A:visited{color:#02644c; text-decoration:none; }
+.gn12b   A:hover{color:#056b9a; text-decoration:underline; }
+
+
+.gn13b {
+	font-size: 13px;
+	line-height: 20px;
+	color: #659462;
+	font-weight: bolder;
+}
+.gn13b   A:link{color:#659462; text-decoration:none; }
+.gn13b   A:visited{color:#659462; text-decoration:none; }
+.gn13b   A:hover{color:#659462; text-decoration:underline; }
+
+
+.gy13 {
+	font-size: 13px;
+	line-height: 24px;
+	color: #6E6E6E;
+}
+.gy13   A:link{color:#6E6E6E; text-decoration:none; }
+.gy13   A:visited{color:#6E6E6E; text-decoration:none; }
+.gy13   A:hover{color:#6E6E6E; text-decoration:underline; }
+
+
+.be13b {
+	font-size: 13px;
+	line-height: 20px;
+	color: #006175;
+	font-weight: bolder;
+}
+.be13b   A:link{color:#006175; text-decoration:none; }
+.be13b   A:visited{color:#006175; text-decoration:none; }
+.be13b   A:hover{color:#006175; text-decoration:underline; }
+
+
+.we13b {
+	font-size: 13px;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-weight: bolder;
+}
+.we13b   A:link{color:#FFFFFF; text-decoration:none; }
+.we13b   A:visited{color:#FFFFFF; text-decoration:none; }
+.we13b   A:hover{color:#FFFFFF; text-decoration:underline; }
+
+.gy14p {
+	font-family : "Taigi Unicode", "Taiwanese Fixed", "Taiwanese Serif";
+	font-size: 14pt;
+	line-height: 1.8;
+	color: #6E6E6E;
+}
+.gy14p   A:link{color:#6E6E6E; text-decoration:none; }
+.gy14p   A:visited{color:#6E6E6E; text-decoration:none; }
+.gy14p   A:hover{color:#6E6E6E; text-decoration:underline; }
+
+
+.be15 {	font-size: 15px;	line-height: 24px;	color: #00809a;}
+.be15   A:link{color:#00809a; text-decoration:none; }
+.be15   A:visited{color:#00809a; text-decoration:none; }
+.be15   A:hover{color:#00809a; text-decoration:underline; }
+
+
+.be15b {
+	font-size: 15px;
+	line-height: 24px;
+	color: #006175;
+	font-weight: bolder;
+}
+.be15b   A:link{color:#006175; text-decoration:none; }
+.be15b   A:visited{color:#006175; text-decoration:none; }
+.be15b   A:hover{color:#006175; text-decoration:underline; }
+
+
+.we15b {
+	font-size: 15px;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-weight: bolder;
+}
+.we15b   A:link{color:#FFFFFF; text-decoration:none; }
+.we15b   A:visited{color:#FFFFFF; text-decoration:none; }
+.we15b   A:hover{color:#FFFFFF; text-decoration:underline; }
+
+.style {
+	font-size: 12pt;
+	line-height: 18px;
+	color: #6E6E6E;
+}
+.style   A:link{color:#6E6E6E; text-decoration:none; }
+.style   A:visited{color:#6E6E6E; text-decoration:none; }
+.style   A:hover{color:#6E6E6E; text-decoration:underline; }
+
+
+.outline_gy {
+	border: 2px solid #DDDDDD;
+}
+
+.outline_be {
+	border: 1px solid #8FAAAF;
+}
+
+
+.outline_bk {
+	border: 1px solid #4F4F4F;
+}
+
+td#menu a { color: #FFFFFF;  font-style: normal;  font-size: 12px; line-height: 18px;text-indent: 15px;  height: 24px;padding-top: 2px;padding-right: 3px;padding-left: 3px;background-image: url(../images/menu_dot01a.gif);background-repeat:no-repeat ;  background-position:left; }
+td#menu a:hover{ color: #62c2ff;text-decoration: underline;background-image: url(../images/menu_dot01b.gif);background-repeat:no-repeat ;  background-position:left; }
+td#menu a.dropdown {PADDING-TOP: 5px; PADDING-BOTTOM: 4px;padding-right: 20px;padding-left: 10px;}
+
+td#dropdown a {color: #FFFFFF;font-size: 13px;text-indent: 18px;background-image: url(../images/menu_dot01a.gif);background-repeat:no-repeat ;  background-position:left;text-align: left;display: block;margin:0;text-decoration: none;}
+td#dropdown a:hover {text-indent: 18px;color:#62c2ff;background-image: url(../images/menu_dot01b.gif);;background-repeat:no-repeat ;  background-position:left;}
+td#dropdown a.dropdown {padding:0;}
+/*
+td#dropdown a.dropdown {PADDING-TOP: 5px; PADDING-BOTTOM: 4px;padding-right: 20px;padding-left: 10px;}
+*/
+
+.trn {
+}
+
+.trl{
+	background: #f1fff0;
+}
