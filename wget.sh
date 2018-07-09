@@ -1,8 +1,4 @@
-wget -k -p -r -l 100 http://pojbh.lib.ntnu.edu.tw
-On branch master
-Your branch is up-to-date with 'origin/master'.
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
+time wget -k -p -r -l inf -E http://pojbh.lib.ntnu.edu.tw
 
 	new file:   pojbh.lib.ntnu.edu.tw/images/nav_about_ov.gif
 	new file:   pojbh.lib.ntnu.edu.tw/images/nav_collection_ov.gif
@@ -15,9 +11,5 @@ Changes to be committed:
 	new file:   pojbh.lib.ntnu.edu.tw/js/cj/roller.js
 	new file:   pojbh.lib.ntnu.edu.tw/js/cj/simpleMenu.js
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
 
-	pojbh.lib.ntnu.edu.tw.tar.gz
-	pojbh.lib.ntnu.edu.tw/album/artical/full/
-
+  900  cat window | sed "s/.*window.open('/http:\/\/pojbh.lib.ntnu.edu.tw\/script\//g" | sed "s/', 'artical.*//g" | tee wget_src_html
