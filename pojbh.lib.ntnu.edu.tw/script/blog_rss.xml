@@ -1,4 +1,4 @@
-Query string error<br><font color=blue>insert into blog_log set clicks = 1, `day` = '1530720000'</font><br>Field 'blog_id' doesn't have a default value<br><?php xml version="1.0" encoding="UTF-8"?>
+Query string error<br><font color=blue>insert into blog_log set clicks = 1, `day` = '1530806400'</font><br>Field 'blog_id' doesn't have a default value<br><?php xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
 <title><![CDATA[台灣白話字文獻館-BLOG]]></title>
