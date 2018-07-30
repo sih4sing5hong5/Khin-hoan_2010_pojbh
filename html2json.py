@@ -45,9 +45,7 @@ def laiiong_td(soup):
 
 
 def chhue(span):
-    for p in (span.find_all('p')):
-        for ku in p.contents:
-            yield from chuan(ku)
+    yield from span.stripped_strings
 
 
 def chuan(htmltag):
