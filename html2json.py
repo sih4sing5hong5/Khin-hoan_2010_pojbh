@@ -22,9 +22,26 @@ def tsuliau():
             tailo = list(chhue(soup.find(id='artical_tailo')))
             hanlo = list(chhue(soup.find(id='artical_content')))
 
-            'style="text-align:left"'
-            print(len(tailo),len(hanlo))
+            print(len(tailo), len(hanlo))
+
+            print(list(laiiong(soup)))
             break
+
+
+def laiiong(soup):
+    for td in laiiong_td(soup):
+        kiatko = td.get_text()
+        if kiatko != '':
+            yield kiatko
+
+
+def laiiong_td(soup):
+    chuiau = soup.find("table", attrs={"style": "text-align:left"})
+    yield from chuiau.find_all('td')
+
+    for thann in chuiau.parent.parent.find_next_siblings('tr'):
+        for td in thann.find_all('td'):
+            yield td
 
 
 def chhue(span):
