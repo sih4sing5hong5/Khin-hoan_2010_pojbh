@@ -19,16 +19,26 @@ def tsuliau():
             continue
         with open(sootsai) as tong:
             soup = BeautifulSoup(tong, 'lxml')
-            tailo = soup.find(id='artical_tailo').find('span')
-#             print(tailo.get_text)
-            print(tailo.contents)
-            for a in (tailo.children):
-                print('xx')
-                print(a.contents)
+            tailo = list(chhue(soup.find(id='artical_tailo')))
+            hanlo = list(chhue(soup.find(id='artical_content')))
+
+            'style="text-align:left"'
+            print(len(tailo),len(hanlo))
             break
 
-        'artical_content'
-        'style="text-align:left"'
+
+def chhue(span):
+    for p in (span.find_all('p')):
+        for ku in p.contents:
+            yield from chuan(ku)
+
+
+def chuan(htmltag):
+    try:
+        for ku in htmltag.contents:
+            yield from chuan(ku)
+    except AttributeError:
+        yield htmltag
 
 
 tsuliau()

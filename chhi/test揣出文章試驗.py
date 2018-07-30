@@ -1,8 +1,23 @@
+from unittest.case import TestCase
+
+from html2json import chhue
+from bs4 import BeautifulSoup
 
 
-artical2260 = '''<span class="gy12"><p>Ia̍p Tsùn ê Sió-toān.<br />1916.04 373 koàn p.6<br />Ia̍p Tsùn chhut-sì tī Tsú-āu 1867 nî. Tis7oe-hàn ê sî pē-bú sàn-hiong, ū tha̍k tām-po̍h Hàn-o̍h nā-tiāⁿ, chiū hō͘ lâng chhiàⁿ choè sin-lô. I ê tē sì hiaⁿ tāi-seng tit-tio̍h tō-lí, i chiū chīn la̍t chó͘-tòng, chóng-sī bô kú i ê tē sì hiaⁿ ū khì Tām-suí ji̍p Sîn-ha̍k-hāu. āu-lâi in lāu-bú ū phoà-pīⁿ khì Tām-suí chhē i-seng. Iapch8un chiū khì chiàu-kò͘, tuì án-ni chiū tit-tio̍h tō-lí. Tuì 16 hè khí chiū khì kun-suî Lē Bo̍k-su, 17 hè nî-bé chiuj7...p Sîn-ha̍k, 21 hè chiū chhut-lâi chuí-tńg-kha choè Thoân-tō. Hit-sî i ū chīn la̍t kó͘-bú kàu-hoē kap kó͘-bú khí sin pài-tn̂g. Tuì án-ni kàu-hoē chiū chiām-chiām heng-khí. Tuì Tè-kok léng Tâi ê sî, i ū pī-lān poaⁿ khì Tām-suí pài-tn̂g. āu-lâi ū beh kā i choán-jīm, in-uī ū kuí-nā hāng ê chó͘-tòng, chiū sichit5 hioh kang, iû-goân koh tiàm chuí-tńg-kha choè seng-lí kap choè i-seng. <br />Taⁿ hioh kang liáu-āu ū thang pang-chān kàu-hoē ê só͘-chāi, i chin hoaⁿ-hich2oe, iā chhut-la̍t toê-iân choè kàu-hoēe bô͘-iūⁿ. Put-hēng tī kū-nî bé ū phoà-pīⁿ ji̍p Má-kai i-īⁿ; tāi-seng tit-tio̍h i-seng chīn la̍t i-tī, pīⁿ chiām-chiām khah hó. In-uī seng-lí kap lâng tn̂g-té ê susīuN tio̍h ko͘-put-chiong chhut īⁿ tò-tńg lâi, pīⁿ-sè koh tú-tio̍h ná siong-tiōng. Kàu pún nî 2 ge̍h 7 hō koh ji̍p īⁿ, chóng-sī khó-sioh chia̍h io̍h bô hāu, tī 2 ge̍h 18 hō hō͘ chú kéng-tiàu lī-khui sè-kan,kè ji̍t soà tī hia bâi-chòng. Ū tit-tio̍h kuí-nā uī se-kok kap pún-toē Bo̍k-su,Thoân-tō-su, Sîn-ha̍k-hāu ê ha̍k-seng kap Toā-tiū-tiâⁿ, Báng-kah, chuí-tńg-kha ê kàu-hoē lâi sàng-chòng, tì-ì ài siá kuí-jik7a lia̍t-uī seh-siā. Taⁿ kàu-hoē ū sit-lo̍h chi̍t ê jia̍t-sim ê hoē-iú, i ê bó͘-kiáⁿ ū si̍t-lo̍h chi̍t ê thâu-chàng, kiám m̄ siong-pi mah.?<br />(Ia̍p Kim-bo̍k kì.)</p></span>'''
+class chhigiam(TestCase):
+    def test_2260(self):
+        chu = list(chhue(BeautifulSoup(self.artical2260, 'lxml')))
+        self.assertEqual(
+            chu[:2], ['Ia̍p Tsùn ê Sió-toān.', '1916.04 373 koàn p.6']
+        )
 
-artical2263 = '''<span class="gy12"><p>Sin-iok Thâu-sū.</p>
+    def test_2263(self):
+        chu = list(chhue(BeautifulSoup(self.artical2263, 'lxml')))
+        self.assertEqual(chu[:2], ['Sin-iok Thâu-sū.', '(Pa Khek-lé kì).'])
+
+    artical2260 = '''<span class="gy12"><p>Ia̍p Tsùn ê Sió-toān.<br />1916.04 373 koàn p.6<br />Ia̍p Tsùn chhut-sì tī Tsú-āu 1867 nî. Tis7oe-hàn ê sî pē-bú sàn-hiong, ū tha̍k tām-po̍h Hàn-o̍h nā-tiāⁿ, chiū hō͘ lâng chhiàⁿ choè sin-lô. I ê tē sì hiaⁿ tāi-seng tit-tio̍h tō-lí, i chiū chīn la̍t chó͘-tòng, chóng-sī bô kú i ê tē sì hiaⁿ ū khì Tām-suí ji̍p Sîn-ha̍k-hāu. āu-lâi in lāu-bú ū phoà-pīⁿ khì Tām-suí chhē i-seng. Iapch8un chiū khì chiàu-kò͘, tuì án-ni chiū tit-tio̍h tō-lí. Tuì 16 hè khí chiū khì kun-suî Lē Bo̍k-su, 17 hè nî-bé chiuj7...p Sîn-ha̍k, 21 hè chiū chhut-lâi chuí-tńg-kha choè Thoân-tō. Hit-sî i ū chīn la̍t kó͘-bú kàu-hoē kap kó͘-bú khí sin pài-tn̂g. Tuì án-ni kàu-hoē chiū chiām-chiām heng-khí. Tuì Tè-kok léng Tâi ê sî, i ū pī-lān poaⁿ khì Tām-suí pài-tn̂g. āu-lâi ū beh kā i choán-jīm, in-uī ū kuí-nā hāng ê chó͘-tòng, chiū sichit5 hioh kang, iû-goân koh tiàm chuí-tńg-kha choè seng-lí kap choè i-seng. <br />Taⁿ hioh kang liáu-āu ū thang pang-chān kàu-hoē ê só͘-chāi, i chin hoaⁿ-hich2oe, iā chhut-la̍t toê-iân choè kàu-hoēe bô͘-iūⁿ. Put-hēng tī kū-nî bé ū phoà-pīⁿ ji̍p Má-kai i-īⁿ; tāi-seng tit-tio̍h i-seng chīn la̍t i-tī, pīⁿ chiām-chiām khah hó. In-uī seng-lí kap lâng tn̂g-té ê susīuN tio̍h ko͘-put-chiong chhut īⁿ tò-tńg lâi, pīⁿ-sè koh tú-tio̍h ná siong-tiōng. Kàu pún nî 2 ge̍h 7 hō koh ji̍p īⁿ, chóng-sī khó-sioh chia̍h io̍h bô hāu, tī 2 ge̍h 18 hō hō͘ chú kéng-tiàu lī-khui sè-kan,kè ji̍t soà tī hia bâi-chòng. Ū tit-tio̍h kuí-nā uī se-kok kap pún-toē Bo̍k-su,Thoân-tō-su, Sîn-ha̍k-hāu ê ha̍k-seng kap Toā-tiū-tiâⁿ, Báng-kah, chuí-tńg-kha ê kàu-hoē lâi sàng-chòng, tì-ì ài siá kuí-jik7a lia̍t-uī seh-siā. Taⁿ kàu-hoē ū sit-lo̍h chi̍t ê jia̍t-sim ê hoē-iú, i ê bó͘-kiáⁿ ū si̍t-lo̍h chi̍t ê thâu-chàng, kiám m̄ siong-pi mah.?<br />(Ia̍p Kim-bo̍k kì.)</p></span>'''
+
+    artical2263 = '''<span class="gy12"><p>Sin-iok Thâu-sū.</p>
 <p>(Pa Khek-lé kì).</p>
 <p>1916. 4, no. 373, pp. 8-9</p>
 <p>&nbsp; Sì-tsa̍p goā nî chêng ū chiong Sin-iok hoan-e̍k pe̍h-oē-jī. Hit-tia̍p kàu taⁿ ū boē kuí-nā chheng pún, hō͘ chin tsoē lâng tha̍k, lâi tit-tio̍h toā lī-ek; sī in-uī ta̍k lâng thang ka-kī káng-kiù Siōng-tè ê Sèng-chheh.</p>
