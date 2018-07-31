@@ -1,4 +1,3 @@
-from itertools import chain
 from os.path import join
 from posix import listdir
 import re
@@ -8,16 +7,17 @@ from bs4 import BeautifulSoup
 
 def tsanpootong():
     boklok = join('pojbh.lib.ntnu.edu.tw', 'script')
-    buntsiunn = re.compile('artical-\d+.htm')
+    buntsiunn = re.compile('artical-(\d+).htm')
     for mia in sorted(listdir(boklok)):
-        if buntsiunn.match(mia):
-            yield join(boklok, mia)
+        tuiing = buntsiunn.match(mia)
+        if tuiing:
+            yield tuiing.group(1), join(boklok, mia)
 
 
 def tsuliau():
-    for sootsai in tsanpootong():
-        if '-99.' not in sootsai:
-            continue
+    for pianho, sootsai in tsanpootong():
+#         if '-12789.' not in sootsai:
+#             continue
         with open(sootsai) as tong:
             soup = BeautifulSoup(tong, 'lxml')
             tailo = list(chhue(soup.find(id='artical_tailo')))
@@ -26,16 +26,16 @@ def tsuliau():
             if len(tailo) != len(hanlo):
                 print(sootsai)
                 print(len(tailo), len(hanlo))
-                for a, b in zip(tailo, hanlo):
-                    print(a, b)
-                break
+#                 for a, b in zip(tailo, hanlo):
+#                     print(a, b)
+#                     print()
+#                 break
 
-#             print(sootsai)
             chu = laiiong(soup)
-            chu[tailo]=tailo
-            chu[hanlo]=hanlo
+            chu['pianho'] = pianho
+            chu['tailo'] = tailo
+            chu['hanlo'] = hanlo
             yield chu
-#             break
 
 
 def laiiong(soup):
@@ -65,30 +65,35 @@ def chhue(span):
 
 
 def chhue_p(span):
-    for p in span.find_all('p'):
-        tuann = []
-        for tanui in p.children:
-            chhiat = False
-            try:
-                for ete in chain([tanui], tanui.descendants):
-                    try:
-                        if ete.name == 'br':
-                            chhiat = True
-                    except AttributeError:
-                        pass
-            except AttributeError:
-                pass
-            if chhiat:
-                yield ''.join(tuann)
-                tuann = []
+    for p in span.children:
+        try:
+            p.name
+        except AttributeError:
+            print('p', p.strip())
+            yield p.strip()
+        else:
+            tuann = []
+            for chiat in chhue_p_ete(p):
+                if chiat is not True:
+                    tuann.append(chiat)
+                else:
+                    yield ''.join(tuann)
+                    tuann = []
+            yield ''.join(tuann)
 
-            try:
-                string = tanui.get_text()
-            except AttributeError:
-                string = tanui
-            tuann.append(string)
-        yield ''.join(tuann)
+
+def chhue_p_ete(p):
+    try:
+        for ete in p.children:
+            yield from chhue_p_ete(ete)
+        if p.name in['p', 'br']:
+            yield True
+    except AttributeError:
+        if '\n' == p:
+            yield True
+        else:
+            yield p
 
 
 if __name__ == '__main__':
-    tsuliau()
+    list(tsuliau())
