@@ -1,3 +1,4 @@
+import json
 from os.path import join
 from posix import listdir
 import re
@@ -16,8 +17,8 @@ def tsanpootong():
 
 def tsuliau():
     for pianho, sootsai in tsanpootong():
-#         if '-12789.' not in sootsai:
-#             continue
+        #         if '-12789.' not in sootsai:
+        #             continue
         with open(sootsai) as tong:
             soup = BeautifulSoup(tong, 'lxml')
             tailo = list(chhue(soup.find(id='artical_tailo')))
@@ -96,4 +97,8 @@ def chhue_p_ete(p):
 
 
 if __name__ == '__main__':
-    list(tsuliau())
+    with open('pojbh.json', 'w') as tong:
+        json.dump(
+            list(tsuliau()), tong,
+            ensure_ascii=False, sort_keys=True, indent=2
+        )
