@@ -15,19 +15,23 @@ def tsanpootong():
 
 def tsuliau():
     for sootsai in tsanpootong():
-        if '2260' not in sootsai:
-            continue
+        #         if '2260' not in sootsai:
+        #             continue
         with open(sootsai) as tong:
             soup = BeautifulSoup(tong, 'lxml')
             tailo = list(chhue(soup.find(id='artical_tailo')))
             hanlo = list(chhue(soup.find(id='artical_content')))
 
-            print(len(tailo), len(hanlo))
-            if len(tailo)!= len(hanlo):
+            if len(tailo) != len(hanlo):
                 print(sootsai)
+                print(len(tailo), len(hanlo))
+#                 for a, b in zip(tailo, hanlo):
+#                     print(a, b)
+#                 break
 
+            print(sootsai)
             chu = laiiong(soup)
-            break
+#             break
 
 
 def laiiong(soup):
@@ -35,7 +39,7 @@ def laiiong(soup):
     for td in laiiong_td(soup):
         kiatko = td.get_text()
         if kiatko != '':
-            na, iong = kiatko.split('：')
+            na, iong = kiatko.split('：', 1)
             chu[na] = iong
     return chu
 
@@ -50,7 +54,33 @@ def laiiong_td(soup):
 
 
 def chhue(span):
-    yield from span.stripped_strings
+    for tuann in chhue_p(span):
+        kiatko = tuann.strip()
+        if kiatko:
+            yield kiatko
 
 
-tsuliau()
+def chhue_p(span):
+    for p in span.find_all('p'):
+        tuann = []
+        for tanui in p.children:
+            chhiat = False
+            try:
+                if tanui.name == 'br':
+                    chhiat = True
+            except AttributeError:
+                pass
+            if chhiat:
+                yield ''.join(tuann)
+                tuann = []
+
+            try:
+                string = tanui.get_text()
+            except AttributeError:
+                string = tanui
+            tuann.append(string)
+        yield ''.join(tuann)
+
+
+if __name__ == '__main__':
+    tsuliau()
