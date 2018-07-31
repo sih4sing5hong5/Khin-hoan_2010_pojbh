@@ -1,3 +1,4 @@
+from itertools import chain
 from os.path import join
 from posix import listdir
 import re
@@ -15,8 +16,8 @@ def tsanpootong():
 
 def tsuliau():
     for sootsai in tsanpootong():
-        #         if '2260' not in sootsai:
-        #             continue
+        if '-99.' not in sootsai:
+            continue
         with open(sootsai) as tong:
             soup = BeautifulSoup(tong, 'lxml')
             tailo = list(chhue(soup.find(id='artical_tailo')))
@@ -25,12 +26,15 @@ def tsuliau():
             if len(tailo) != len(hanlo):
                 print(sootsai)
                 print(len(tailo), len(hanlo))
-#                 for a, b in zip(tailo, hanlo):
-#                     print(a, b)
-#                 break
+                for a, b in zip(tailo, hanlo):
+                    print(a, b)
+                break
 
-            print(sootsai)
+#             print(sootsai)
             chu = laiiong(soup)
+            chu[tailo]=tailo
+            chu[hanlo]=hanlo
+            yield chu
 #             break
 
 
@@ -66,8 +70,12 @@ def chhue_p(span):
         for tanui in p.children:
             chhiat = False
             try:
-                if tanui.name == 'br':
-                    chhiat = True
+                for ete in chain([tanui], tanui.descendants):
+                    try:
+                        if ete.name == 'br':
+                            chhiat = True
+                    except AttributeError:
+                        pass
             except AttributeError:
                 pass
             if chhiat:
