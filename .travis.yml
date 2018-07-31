@@ -1,11 +1,13 @@
 sudo: false
 dist: trusty
 language: python
+python:
+- '3.5'
 branches:
   only:
   - master
 script:
-- echo POJBH!!
+- python -m unittest
 deploy:
   provider: pages
   skip_cleanup: true
