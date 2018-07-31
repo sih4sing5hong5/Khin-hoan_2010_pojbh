@@ -23,16 +23,21 @@ def tsuliau():
             hanlo = list(chhue(soup.find(id='artical_content')))
 
             print(len(tailo), len(hanlo))
+            if len(tailo)!= len(hanlo):
+                print(sootsai)
 
-            print(list(laiiong(soup)))
+            chu = laiiong(soup)
             break
 
 
 def laiiong(soup):
+    chu = {}
     for td in laiiong_td(soup):
         kiatko = td.get_text()
         if kiatko != '':
-            yield kiatko
+            na, iong = kiatko.split('：')
+            chu[na] = iong
+    return chu
 
 
 def laiiong_td(soup):
@@ -46,14 +51,6 @@ def laiiong_td(soup):
 
 def chhue(span):
     yield from span.stripped_strings
-
-
-def chuan(htmltag):
-    try:
-        for ku in htmltag.contents:
-            yield from chuan(ku)
-    except AttributeError:
-        yield htmltag
 
 
 tsuliau()
