@@ -1,0 +1,21 @@
+Query string error<br><font color=blue>insert into blog_log set clicks = 1, `day` = '1530806400'</font><br>Field 'blog_id' doesn't have a default value<br><?php xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[台灣白話字文獻館-BLOG]]></title>
+<link>http://pojbh.lib.ntnu.edu.tw//script</link>
+<description><![CDATA[]]></description>
+<language>utf-8</language>
+<generator>Bobii</generator>
+
+<item>
+	<link>http://pojbh.lib.ntnu.edu.tw//scriptblog1.html</link>
+	<title><![CDATA[會曉台羅拼音，會曉台灣白話字]]></title>
+	<author> 國立台灣師範大學 台灣文化及語言文學研究所</author>
+	<category><![CDATA[無分類]]></category>
+	<pubDate>2009-09-28 00:00:00</pubDate>
+	<description><![CDATA[<p><span style="font-size: small;"><strong></strong></span></p>
+<p>李勤岸<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 只要知影台羅拼音只有子音1个、母音2个所在修改， 就會當完全閱讀傳統白話字：傳統的ch，chh 台羅拼音是ts，tsh（這佮國際音標IPA相像，符合一符一音一意原則）；母音傳統的oa，oe 台羅拼音是ua，ue(依照台羅拼音ê音素原則，介音使用u)，母音傳統是eng，ek 台羅拼音是 ing，ik（顧全韻母系統對應ê一致性：in&gt;im&gt;ing；it&gt; ip&gt;ik）。會曉台羅拼音ê人應該同時會曉讀傳統白話字，按呢才好。&nbsp;<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 已經學會曉台羅拼音ê人攏會當運用傳統台語白話字ê豐富資料。學台羅拼音ê好處就是會當轉去接咱台灣人豐富ê文化、文學、語言ê資產。台羅拼音佮傳統白話字有100% ê共容度。<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 咱書寫盡量使用新白話字--台羅拼音， 按呢咱台語文標準化ê日子才有法度早一日來到，標準化ê語文才有法度予社會大眾接受，才會當進入教育體制。但是對傳統白話字咱嘛愛會曉閱讀，毋通有排斥ê心理。<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 白話字文學是咱台灣人寶貴ê資產。<br /><br />&nbsp;<br />2009/11/28 寫佇國立台灣師範大學台灣文化及語言文學研究所</p>
+<p>&nbsp;</p>]]></description>
+</item>
+</channel>
+</rss>
