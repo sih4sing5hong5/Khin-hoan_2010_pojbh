@@ -4,6 +4,7 @@ from posix import listdir
 import re
 
 from bs4 import BeautifulSoup
+from bs4.element import Comment
 
 
 def tsanpootong():
@@ -85,6 +86,8 @@ def chhue_p(span):
 
 def chhue_p_ete(p):
     try:
+        if isinstance(p, Comment):
+            return
         for ete in p.children:
             yield from chhue_p_ete(ete)
         if p.name in['p', 'br']:

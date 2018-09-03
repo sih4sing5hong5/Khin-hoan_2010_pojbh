@@ -36,6 +36,76 @@ class chhigiam(TestCase):
             chu
         )
 
+    def test_12045(self):
+        chu = list(chhue(BeautifulSoup(self.artical12045, 'lxml')))
+        self.assertEqual(
+            chu[0],
+            'Sin Thé-chè ê Kàu-hoē'
+        )
+    artical12045 = '''<span class="gy12"><p><!--[if gte mso 9]><xml> Normal   0      0   2      false   false   false                                                         MicrosoftInternetExplorer4 </xml><![endif]--><!--[if gte mso 9]><xml> </xml><![endif]--><!--[if !mso]> 
+<object  classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieoo͘i>
+</object>
+<style>
+st1\:*{behavior:url(#ieoo͘i) }
+</style>
+<![endif]--> <!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoⁿormalTable
+    {mso-style-name:表格內文;
+    mso-tstyle-rowband-size:0;
+    mso-tstyle-colband-size:0;
+    mso-style-noshow:yes;
+    mso-style-parent:"";
+    mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+    mso-para-margin:0cm;
+    mso-para-margin-bottom:.0001pt;
+    mso-pagination:widow-orphan;
+    font-size:10.0pt;
+    font-family:"Times New Roman";
+    mso-fareast-font-family:"Times New Roman";
+    mso-ansi-language:#0400;
+    mso-fareast-language:#0400;
+    mso-bidi-language:#0400;}
+</style>
+<![endif]--></p>
+<p>Sin Thé-chè ê Kàu-hoē</p>
+<p>Phoaⁿ Tō-êng</p>
+<p>1941年4月673期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17-19</p>
+<p>&nbsp;</p>
+<p>&nbsp; Nā beh ta̍t-sêng Sin thé-chè ê bo̍k-tek, m̄-sī kan-ta ū goā-pō͘-tek ê ki-kò͘(機構) kap chhiú-toāⁿ; tē-it iàu-kín sī kok-bîn ta̍k lâng ê lêng-hûn tio̍h tiàm tī Ki-tok choè sin chhòng-chō--ê; só͘-í hiān-tāi chong-kàu-kài ê chek-jīm sī chin tiōng-tāi. Ki-tok-kàu eng-kai chek-èng sin thé-chè, chiâⁿ-choè Sin Thé-chè ê Kàu-hoē . Sím-mi̍h sī Sin Thé-chè ê kàu-hoē?</p>
+<p>&nbsp; 1.<em> Khoe-ho̍k(</em><em>恢復</em><em>) Ū-giân-chiá ê cheng-sîn.</em></p>
+<p>&nbsp; Kū-iok ê chong-kàu ū nn̄g ê tiau-liû, chiū-sī Chè-si-tek ê chong-kàu kap Ū-giân-chiá w4 chong-kàu. Chiân-chiá, sī tuì-tiōng hêng-sek; hō͘-chiá, sī iàu-kín loē-iông. In-uī tng-sî soán-bîn chí-ū ēng goā-phê teh pài Siōng-tè ; só͘-í Sian-ti A-mô͘-sū chiū kéng-kò in kóng, "Lín sui-jiân hiàn sio chè, Goá bô hoaⁿ-hí ; hiàn puî ê cheng-siⁿ , Goá bô beh kàm-la̍p"(A-mô͘-sū 5:22-24).</p>
+<p>&nbsp; Ki-tok-kàu sī si̍t-chián(實踐) ê chong-kàu . Chú Iâ-so͘ ū kóng, Lín ê gī bô iâⁿ-kè keng-ha̍k-sū kap Hoat-lī-sài lâng ê gī, koat-toàn boē-tit ji̍p Thian-kok(Má-thài 5:20).</p>
+<p>&nbsp; リンドバーク tāi-chò só͘ hoat-piáu "<em>Bē-lâi ê toā hái-éng"</em> hit phiⁿ lūn-bûn ū chi̍t chām án-ni kóng: "BÍ-kok in pún-sin chū-sìn sī chèng-gī ê kok, Bí-kok tuì sè-kài ê chú-tiuⁿ sī choa̍t-tuì; lâng nā hoán-tuì, chiū-sī Mô͘-kuí. Che ū tú-tú tio̍h bô? Sèng-keng só͘ kì hit ê hó-gia̍h chheng-liân, tuì Chú Iâ-so͘ mn̄g kóng, Goá tio̍h cháiⁿ-iūⁿ choè, chiah thang sêng-chiap éng-oa̍h? Ki-tok ìn kóng, Lí ū iú-hàu bô? Lí ū thiàⁿ chhù-piⁿ bô?" Lí ū kèng Siōng-tè bô?Chheng-liân ìn kóng. Ū. Choè-āu Ki-tok kā i kóng. Lí iáu khiàm chi̍t hāng, tio̍h khì boē lí hoān só͘-ū--ê, lâi hō͘ sàn-hiong lâng, koh lâi tè Goá. Hit ê chheng-liân sit-sek, iu-būn chiū khì. Chit ê kò͘-sū tio̍h chhim-siūⁿ--i. Bí-kok chū-sìn in ū chhut-la̍t tī sè-kài ê pêng-hô; koat-toàn tuì sè-kài bô ū choè siáⁿ m̄ tú-hó tī-teh. Chóng-sī tio̍h chai, Ki-tok iā beh choè-āu án-ni tuì Bí-kok kóng, Lí iáu khiàm chi̍t hāng. Só͘ khiàm chit hāng, sī hiān-tāi chai-hō ê goân-thâu."</p>
+<p>&nbsp; Phí-jîn ín i ê oē , ài lán hiān-tāi kàu-hoē tio̍h ka-kī hoán-séng. Kiaⁿ-liáu lán bô teh si̍t-hêng kài-bēng ê chin-chhoé, chiū-sī Thiàⁿ chhù-piⁿ chhin-chhiūⁿ ka-kī.</p>
+<p><em>&nbsp; 2. Ko-tiāu(</em><em>高調</em><em>) Ki-tok-kàu kò͘-iú (</em><em>個有</em><em>) ê cheng-sîn:</em></p>
+<p>&nbsp; Sī sím-mi̍h? Chiū-sī chin ê oa̍h-miā Ki-tok kóng, Goá sī oa̍h-miā. Chit ê oa̍h-miā sī èng sî-tāi ê iau-kiû. Ki-tok-kàu tī Lô-má kok 300 nî kú, siū pek-hāi, ū táⁿ-phoà Lô-má tè-kok chú-gī, kiàn-siat chin ê Kàu-hoē . Ki-tok kóng, Thian-kok chhin-chhiūⁿ <em>Kàⁿ</em> , chhin-chhiūⁿ <em>Koà-chhài-chí</em>; in-uī ū kái-chō kap hoat-tián ê oa̍h-miā la̍t tī-teh. Ki-tok-kàu sī oa̍h-miā ê chong-kàu. Bô ū Ki-tok ê Sîn--ê(oa̍h-miā), m̄-sī Ki-tok ê Kàu-hoē (Lô-má 8:9). Oāⁿ oē lâi kóng, M̄-sī sin thé-chè ê kàu-hoē.</p>
+<p><em>&nbsp; 3. Soat-sin Ji̍t-iāu Ha̍k-hāu ê kàu-io̍k.</em></p>
+<p>&nbsp; ēng Kok-gú lâi thoè Pe̍h-oē-jī ê kàu-siū, che sī èng sî-tāi ê iau-kiû. Chóng-sī tio̍h chai , Ji̍t-iāu ha̍k-hāu ê kàu-io̍k, chiū-sī ēng Siōng-tè kok choè bo̍k-phiau, Siōng-tè ê Thiàⁿ ê kàu-io̍k. Oāⁿ oē lâi kóng, chiū-sī Hok-im chú-gī ê chong-kàu kàu-io̍k. Hō͘ ta̍k ê ha̍k-seng chiong-lâi chiâⁿ-choè hó ê Ki-tok-tô͘, hó ê kok-bîn. Ji̍t-iāu ha̍k-hāu ê sêng-kong, sī chāi tī ū tú-hó ê kàu-oân. Ū lâng kóng, chāi-lâi ê kàu-oân khiàm jia̍t-sim kap hèng-bī. ǹg-bāng hiān-tāi ê kàu-oân ka-kī hoán-séng, soà put-sî gâu kap ha̍k-seng kau-poê, hō͘ in chiâⁿ-choè sìn-gióng sin thé-chè ê Ki-tok-tô͘; chiah bô ko͘-hū Siōng-tè ê kau-thok.</p>
+<p>&nbsp; Chhú-khì só͘ beh sêng-li̍p ê Kok-bîn Ha̍k-hāu ê kàu-io̍k kun-pún hong-chiam chiū-sī tû-khì chāi-lâi siāng chi̍t khoán ki-hâi-tek ê kàu-io̍k, koh kiàn-siat gī-sio̍k kàu-io̍k ê cheng-sîn. Hit ê bo̍k-tek, chiū-sī Hông-bîn ê liān-sêng(皇民ノ煉成) . Chet hang choè lán chin toā ê chham-khó.</p>
+<p><em>&nbsp;</em><em>&nbsp;4. Oân-sêng Ki-tok ê lí sióng.</em></p>
+<p>&nbsp; Ki-tok só͘ lí-sióng ê kàu-hoē, sī sin thé-chè ê kàu-hoē . Siáⁿ khoán? Chhiáⁿ khoàⁿ Ngá-ko 6:10 ū kóng, Tù-hiān chhin-chhiūⁿ chá-khí-sî ê kng; suí chhin-chhiūⁿ ge̍h; chheng-kiat chhin-chhiūⁿ ji̍t; ui-gî chhin-chhiūⁿ kia̍h toā-kî ê kun-tuī--ê. Chóng kóng, chiū-sī ū Sèng-chheh-tek ê sìn-gióng ; ū Thiàⁿ; ū Sèng-kiat ; koh ū it-tì thoân-kiat ióng-kám tī-teh.</p>
+<p><em>&nbsp; 5. Tui-kiû sin thé-chè ê chin cheng-sîn.</em></p>
+<p><em>&nbsp; Bia̍t-su hōng-kong ,</em> che sī kin-ná-ji̍t lán Tè-kok só͘ kiông-tiau--ê. Chóng-sī Ki-tok tī nn̄g chheng nî chêng í-keng kà-sī liáu lah. Ki-tok ū kóng, Lín tio̍h kiû Siōng-tè ê Kok kap I ê Gī. M̄-sī kiû an-ia̍t, bêng-lí êng ta̍t choè tē-it, chiū-sī kiàn-siat sè-kài sin tia̍t-sū pêng-hô ê ông-kok choè tē-it.</p>
+<p>&nbsp; Ki-tok-tô͘ loā-choē kam-goān chiong i ê châi-sán 10 hun chi̍t hiàn hō͘ Siōng-tè ah? Tio̍h lia̍h kàu-hoē choè tē-it, kàu-hoē tio̍h oân-choân chū-kip.</p>
+<p>&nbsp;<em>&nbsp;6. Hoat-hui Kàu-hoē ê tiong-sim sù-bēng.</em></p>
+<p>&nbsp;<em>&nbsp;Tuì lāi</em>: (1) Chip-siú Sèng lé-tián(Soé-lé kap Boán-chhan); (2) Kèng-pài Thiⁿ Pē;(3) Hùn-liān hoē-iú.</p>
+<p>&nbsp;<em>&nbsp;Tuì goā</em>: (1) Thoân Hok-im; (2) Kiàn-siat chû-siān ê sū-gia̍p(Iâ-so͘ sì-koè kiâⁿ, choè hó-sū) uī-tio̍h kok-ka siā-hoē tô͘-bô͘ hēng-hok--ê, chiah thang ke-thiⁿ jîn-seng ê hēng-hok.</p>
+<p><em>&nbsp; </em><em>7. Pò-chhî káng-toâⁿ ê koân-ui.</em></p>
+<p>&nbsp; Chú Iâ-so͘ tuì káng-toâⁿ lo̍h-lâi ê sî, chèng-lâng kî-koài I ê kà-sī. In-uī I kà-sī lâng ū koân-lêng tī-teh. Hit ê koân-lêng(ū la̍t thang kám-tōng lâng), chiū-sī I 30 nî kú chún-pī ê kî-kan só͘ tit-tio̍h ê lêng-le̍k.</p>
+<p>&nbsp; Ha̍k-chiá kóng. Hē-thiⁿ teh háu ê siân-á, i tī thô͘-lāi ê seng-oa̍h tio̍h 9 nî á 12 nî kú, chiah oē thang án-ni . Kin-á-ji̍t ê thoân-kàu-chiá 4 nî á 5 nî ê chún-pī, chiū it-seng-gâi teh thoân-tō, bo̍k-koài i só͘ khiā hit ê káng-tâi bô koân-ui tī-teh.</p>
+<p>&nbsp; Pó-lô Sian-siⁿ ta̍k-sî khiā tī káng-toâⁿ to ū koân-ui. Siáⁿ-sū án-ni? I kóng, Goá m̄-káⁿ uî-keh tuì thiⁿ só͘ hián-hiān--ê.</p>
+<p>&nbsp; Bô īⁿ-siōng , chiū oh-tit pó-chhî káng-toâⁿ ê koân-ui.</p>
+<p>&nbsp; 8. M̄-sī kóng pài-tn̂g toā keng, hoē-iú choē Siōng-tè chiū hoaⁿ-hí. Lâng khoàⁿ-tāng liōng, Siōng-tè khoàⁿ-tāng chit. Chú Iâ-so͘ kóng, Siat-sú lín tiong-kan nn̄g lâng tī toē-nih bô lūn kiû sím-mi̍h, nā-sī tâng-sim, chiū Goá tī thiⁿ-nih ê Pē beh kā in choè-chiâⁿ. In-uī put-lūn sím-mi̍h só͘-chāi ū nn̄g saⁿ lâng tī goá ê miâ chū-hoē, goá iā tī in tiong-kan(Má-thài 18:19,20). Chit nn̄g saⁿ lâng, lóng sī sìn Chú , thiàⁿ Chú, kap Chú liân-ha̍p--ê; só͘-í in ê só͘ choè kap kî-tó lóng ū toā hāu-le̍k. Nā ū Chú Iâ-so͘ tī hit tiong-kan, sui-jiân chió-sò͘ iā ū toā khuì-la̍t. Kàu-hoē ê chóng-le̍k(總力) chāi tī ū it-tì kiat-ha̍p ê sìn-tô͘.</p>
+<p><em>&nbsp; 9. Kak-gō oa̍h tī sìn-gióng lâi oa̍h-tāng ê sî-tāi.</em></p>
+<p>&nbsp; Chá Mô͘-se kiò Í-sek-lia̍t peh-sìⁿ tio̍h tuì Hô-lia̍t soaⁿ lo̍h-khì(Sin 1:6,7). Tī Hô-lia̍t soaⁿ sī siū chiok-hok , èng-ún un-tián ê só͘-chāi. Kè-khì lán ê kàu-hoē ū siū Siōng-tè ê un-sù choē-choē taⁿ tio̍h lo̍h soaⁿ khì hū-tam Siōng-tè só͘ kau-thok ê chek-jīm. Sè-kài hun-loān ê sî-tāi, sìn-chiá tio̍h kam-goān thiàu-ji̍p che khùn-lân ê sè-kài lâi oa̍h-tāng. <em>Sìn-gióng</em> <em>pò-kok</em> ê ki-hoē m̄-thang sit-lo̍h Tuì che sin Ji̍t-pún ê kòng-hiàn, chiū-sī tio̍h hoat-hui Si̍p-jī-kè ê cheng-sîn; in-uī sin thé-chè ê cheng-sîn-tek ê ki-chhó͘ chiū-sī Si̍p-jī-kè . Si̍p-jī-kè , chiū-sī Ki-tok-kàu ê chin-lí.</p>
+<p>&nbsp; <em>10. Si̍t-hiān Ki-tok-kàu ê pún-léng(</em><em>本領</em><em>)</em></p>
+<p>&nbsp; Ki-tok-kàu ê pún-léng sī sím-mi̍h? モリソン Phok-sū kóng, Tī le̍k-sú-siōng Siōng-tè ê khé-sī. Oāⁿ oē lâi kóng, Tuì Ki-tok só͘ khé-sī si̍t-chāi-tek ê oa̍h-miā, chiū-sī Ki-tok ê seng-khu. Chiū-sī kàu-thoân; Ha̍p-tông ê Kàu-thoân(合同教團). Ha̍p-tông ê Kàu-thoân , oân-choân hoat-tián, chiah thang kóng sī Ki-tok chin ê seng-khu. iā chiah thang kóng sī chin Iâ-so͘ Kàu-hoē.</p>
+<p>&nbsp; Kin-á-ji̍t Ki-tok-kàu liân-bêng só͘ teh chìn-hêng kok phài ha̍p-tông ê sū, sī tú-tú chun-thàn Ki-tok ê kà-sī. Khó-sioh Sèng-kong-hoē í-keng seng-bêng in m̄ chham-ka tī che Kàu-hoē ha̍p-tông lah.</p>
+<p>&nbsp; Lâm Pak Kàu-hoē ha̍p-it, che sī Tâi-oân Tiúⁿ-ló Kàu-hoē chi̍t ê khò-tê(課題). Tio̍h kín si̍t-hiān, chiah ū ha̍p Siōng-tè ê chí-ì. Ha̍p-tông Kàu-thoân sêng-li̍p, chiah oē thang kóng sī si̍t-hiān Ki-tok-kàu ê pún-léng.</p>
+<p>&nbsp;</p></span>'''
+
     artical2260 = '''<span class="gy12"><p>Ia̍p Tsùn ê Sió-toān.<br />1916.04 373 koàn p.6<br />Ia̍p Tsùn chhut-sì tī Tsú-āu 1867 nî. Tis7oe-hàn ê sî pē-bú sàn-hiong, ū tha̍k tām-po̍h Hàn-o̍h nā-tiāⁿ, chiū hō͘ lâng chhiàⁿ choè sin-lô. I ê tē sì hiaⁿ tāi-seng tit-tio̍h tō-lí, i chiū chīn la̍t chó͘-tòng, chóng-sī bô kú i ê tē sì hiaⁿ ū khì Tām-suí ji̍p Sîn-ha̍k-hāu. āu-lâi in lāu-bú ū phoà-pīⁿ khì Tām-suí chhē i-seng. Iapch8un chiū khì chiàu-kò͘, tuì án-ni chiū tit-tio̍h tō-lí. Tuì 16 hè khí chiū khì kun-suî Lē Bo̍k-su, 17 hè nî-bé chiuj7...p Sîn-ha̍k, 21 hè chiū chhut-lâi chuí-tńg-kha choè Thoân-tō. Hit-sî i ū chīn la̍t kó͘-bú kàu-hoē kap kó͘-bú khí sin pài-tn̂g. Tuì án-ni kàu-hoē chiū chiām-chiām heng-khí. Tuì Tè-kok léng Tâi ê sî, i ū pī-lān poaⁿ khì Tām-suí pài-tn̂g. āu-lâi ū beh kā i choán-jīm, in-uī ū kuí-nā hāng ê chó͘-tòng, chiū sichit5 hioh kang, iû-goân koh tiàm chuí-tńg-kha choè seng-lí kap choè i-seng. <br />Taⁿ hioh kang liáu-āu ū thang pang-chān kàu-hoē ê só͘-chāi, i chin hoaⁿ-hich2oe, iā chhut-la̍t toê-iân choè kàu-hoēe bô͘-iūⁿ. Put-hēng tī kū-nî bé ū phoà-pīⁿ ji̍p Má-kai i-īⁿ; tāi-seng tit-tio̍h i-seng chīn la̍t i-tī, pīⁿ chiām-chiām khah hó. In-uī seng-lí kap lâng tn̂g-té ê susīuN tio̍h ko͘-put-chiong chhut īⁿ tò-tńg lâi, pīⁿ-sè koh tú-tio̍h ná siong-tiōng. Kàu pún nî 2 ge̍h 7 hō koh ji̍p īⁿ, chóng-sī khó-sioh chia̍h io̍h bô hāu, tī 2 ge̍h 18 hō hō͘ chú kéng-tiàu lī-khui sè-kan,kè ji̍t soà tī hia bâi-chòng. Ū tit-tio̍h kuí-nā uī se-kok kap pún-toē Bo̍k-su,Thoân-tō-su, Sîn-ha̍k-hāu ê ha̍k-seng kap Toā-tiū-tiâⁿ, Báng-kah, chuí-tńg-kha ê kàu-hoē lâi sàng-chòng, tì-ì ài siá kuí-jik7a lia̍t-uī seh-siā. Taⁿ kàu-hoē ū sit-lo̍h chi̍t ê jia̍t-sim ê hoē-iú, i ê bó͘-kiáⁿ ū si̍t-lo̍h chi̍t ê thâu-chàng, kiám m̄ siong-pi mah.?<br />(Ia̍p Kim-bo̍k kì.)</p></span>'''
 
     artical2263 = '''<span class="gy12"><p>Sin-iok Thâu-sū.</p>
